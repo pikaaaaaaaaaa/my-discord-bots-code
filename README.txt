@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const token = ('NzE5NzMxNDU5NjE5MDI5MDU2.XuJVKg.NVxWF0V3Ahe6W_8g17KlaIxp2xA')
+const token = ('~~~')
 const prefix = 'do ';
 const math = require('mathjs');
 const r = "RANDOM";
